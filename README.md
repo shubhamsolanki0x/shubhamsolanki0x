@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhamsolanki0x
 - 👀 I’m interested in cyber security 
 - 🌱 I’m currently learning information security or cyber security 
-- 💞️ I’m looking to collaborate on bug huntiong
+- 💞️ I’m looking to collaborate on bug hunting
 - 📫 How to reach me https://x.com/ShubSolanki0x
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: well not in my mind rightnow, maybe later
